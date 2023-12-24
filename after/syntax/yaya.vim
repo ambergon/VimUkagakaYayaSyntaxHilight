@@ -11,7 +11,7 @@ hi def link YayaFunction Type
 "}}}
 "{{{
 " Other関数---------------------------------------------------------
-syn match YayaOtherFunction "^[a-zA-Z.]* {"
+syn match YayaOtherFunction "^[a-zA-Z._]* {"
 hi def link YayaOtherFunction Type
 "}}}
 "{{{
